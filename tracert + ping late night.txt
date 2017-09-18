@@ -1,0 +1,150 @@
+ping start
+local
+
+Pinging www.naropa.edu [208.93.209.151] with 200 bytes of data:
+Reply from 208.93.209.151: bytes=200 time=44ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=44ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=41ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=45ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=40ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=41ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=41ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=42ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=42ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=41ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=41ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=40ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=41ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=41ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=41ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=49ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=41ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=42ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=41ms TTL=114
+Reply from 208.93.209.151: bytes=200 time=41ms TTL=114
+
+Ping statistics for 208.93.209.151:
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 40ms, Maximum = 49ms, Average = 41ms
+national
+
+Pinging e8132.dscx.akamaiedge.net [184.85.194.224] with 200 bytes of data:
+Reply from 184.85.194.224: bytes=200 time=14ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=13ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=11ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=12ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=10ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=10ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=10ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=10ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=12ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=12ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=10ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=10ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=11ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=11ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=10ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=11ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=10ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=11ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=10ms TTL=60
+Reply from 184.85.194.224: bytes=200 time=10ms TTL=60
+
+Ping statistics for 184.85.194.224:
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 10ms, Maximum = 14ms, Average = 10ms
+international
+
+Pinging flipkart.com [163.53.78.128] with 200 bytes of data:
+Reply from 163.53.78.128: bytes=200 time=249ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=248ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=245ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=245ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=245ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=246ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=246ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=245ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=245ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=245ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=253ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=246ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=246ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=246ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=245ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=245ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=394ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=333ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=417ms TTL=48
+Reply from 163.53.78.128: bytes=200 time=337ms TTL=48
+
+Ping statistics for 163.53.78.128:
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 245ms, Maximum = 417ms, Average = 271ms
+tracert start
+local
+
+Tracing route to www.naropa.edu [208.93.209.151]
+over a maximum of 30 hops:
+
+  1    92 ms     1 ms     2 ms  10.0.0.1
+  2    11 ms    10 ms    10 ms  96.120.12.133
+  3    16 ms    29 ms    15 ms  68.86.105.165
+  4    12 ms    11 ms    11 ms  162.151.50.249
+  5    12 ms    12 ms    12 ms  68.86.92.121
+  6    12 ms    13 ms    14 ms  68.86.86.77
+  7    13 ms    12 ms    12 ms  68.86.83.6
+  8    12 ms    15 ms    13 ms  96.87.8.46
+  9    29 ms    29 ms    29 ms  154.54.5.90
+ 10    35 ms    35 ms    35 ms  154.54.42.166
+ 11    42 ms    42 ms    42 ms  154.54.6.222
+ 12    42 ms    41 ms    41 ms  154.54.41.230
+ 13    43 ms    42 ms    43 ms  154.24.29.210
+ 14    42 ms    42 ms    43 ms  38.122.55.126
+ 15    42 ms    41 ms    42 ms  208.93.209.151
+ 16    41 ms    42 ms    41 ms  208.93.209.151
+
+Trace complete.
+national
+
+Tracing route to e8132.dscx.akamaiedge.net [184.85.194.224]
+over a maximum of 30 hops:
+
+  1     2 ms     2 ms     2 ms  10.0.0.1
+  2    10 ms    10 ms     9 ms  96.120.12.133
+  3    10 ms     9 ms     9 ms  68.86.105.165
+  4     9 ms    10 ms     9 ms  162.151.51.34
+  5    13 ms    10 ms    10 ms  162.151.51.13
+  6    11 ms    11 ms    10 ms  184.85.194.224
+
+Trace complete.
+international
+
+Tracing route to flipkart.com [163.53.78.128]
+over a maximum of 30 hops:
+
+  1     2 ms     1 ms     1 ms  10.0.0.1
+  2    11 ms    11 ms     9 ms  96.120.12.133
+  3     9 ms    11 ms     9 ms  68.86.105.165
+  4    10 ms    11 ms    12 ms  162.151.50.249
+  5    13 ms    14 ms    14 ms  68.86.92.121
+  6    12 ms    12 ms    12 ms  68.86.86.77
+  7    12 ms    13 ms    11 ms  68.86.83.6
+  8    11 ms    11 ms    11 ms  173.167.58.162
+  9   210 ms   209 ms   209 ms  66.198.127.69
+ 10   209 ms   209 ms   210 ms  209.58.86.73
+ 11   145 ms   146 ms   144 ms  209.58.86.143
+ 12   218 ms   217 ms   219 ms  120.29.217.66
+ 13   214 ms   213 ms   215 ms  180.87.15.40
+ 14   262 ms   262 ms   263 ms  180.87.15.6
+ 15   257 ms   258 ms   256 ms  172.31.167.46
+ 16   241 ms   241 ms   241 ms  121.244.37.178
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20   249 ms   247 ms   245 ms  163.53.78.128
+
+Trace complete.
+Press space to continue...
